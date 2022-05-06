@@ -289,7 +289,6 @@ footer .right .copy {
   transition: opacity 500ms ease-in, -webkit-transform 400ms ease-in-out;
   transition: transform 400ms ease-in-out, opacity 500ms ease-in;
   transition: transform 400ms ease-in-out, opacity 500ms ease-in, -webkit-transform 400ms ease-in-out;
-  display: block;
   background: black;
   color: white;
   width: 100vw;
