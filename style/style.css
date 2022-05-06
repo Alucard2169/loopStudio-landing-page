@@ -61,11 +61,7 @@ header .moto-container {
 }
 
 header .moto-container .moto {
-<<<<<<< HEAD
   font-size: 2.7rem;
-=======
-  font-size: 2.9rem;
->>>>>>> bd3668e675d13aaf63ddbb9a2b78fa53341513d3
   line-height: 43px;
   font-weight: 300;
   color: white;
@@ -277,7 +273,6 @@ footer .right .copy {
   font-family: 'Alata', sans-serif;
   font-size: .9rem;
 }
-<<<<<<< HEAD
 
 .menuContainer {
   opacity: 0;
@@ -601,6 +596,3 @@ footer .right .copy {
   }
 }
 /*# sourceMappingURL=style.css.map */
-=======
-/*# sourceMappingURL=style.css.map */
->>>>>>> bd3668e675d13aaf63ddbb9a2b78fa53341513d3
